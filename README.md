@@ -30,11 +30,15 @@ Adjusted Damage (USD) = SUM('EM-DAT Data'[Total Damage, Adjusted ('000 US$)]) * 
 
 ## 📂 Dataset
 - < a href = "https://github.com/NehaBadole11/Natural_Disasters_PBI/blob/main/Natural%20Disasater%20%26%20Emergency%20Response.xlsx">dataset</a>
+Natural Disasater & Emergency Response.xlsx
 
 Fields include: Disaster Type, Country, Deaths, Injured, Damage (USD), Aid, Declarations, OFDA/BHA Response
 
-## 📽️ Demo
-Add a GIF or screenshot of your report here (optional).
+## 📽️ Dashboard Overview
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f70b20c2-566d-459d-81a5-d44efb585b9d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2eb3cc85-a9e0-4c39-86e0-4de35e745253" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/03cc2c00-1430-4b63-b4dc-bcf1a60eced3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29f63fca-fa2c-430f-9646-1d1b17bc2f19" />
 
 ## 🧠 Insights Uncovered
 Which countries faced the deadliest disasters?
