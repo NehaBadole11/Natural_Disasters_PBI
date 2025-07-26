@@ -29,7 +29,7 @@ Adjusted Damage (USD) = SUM('EM-DAT Data'[Total Damage, Adjusted ('000 US$)]) * 
 🆘 Emphasis on Emergency Response and Aid Effectiveness
 
 ## 📂 Dataset
-- <a href = "https://github.com/NehaBadole11/C:\Users\nehab\Desktop\Natural Disaster dataset">Dataset</a>
+- < a href = "https://github.com/NehaBadole11/Natural_Disasters_PBI/blob/main/Natural%20Disasater%20%26%20Emergency%20Response.xlsx">dataset</a>
 
 Fields include: Disaster Type, Country, Deaths, Injured, Damage (USD), Aid, Declarations, OFDA/BHA Response
 
